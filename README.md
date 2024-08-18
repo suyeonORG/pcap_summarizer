@@ -79,7 +79,7 @@ Depending on the selected option, the utility will print either the full detaile
 - Issues detected in ARP, ICMP, and DHCP communications.
 - A summary of network behavior, including any detected anomalies or critical devices.
 
-```txt
+```bash
 [DEVICES]
 Device_1: [ip_addr, name, mac_addr] (Router, D-Link, Netgear, TP-Link, Tenda)
 Device_1: [different_ip_addr, name, mac_addr] (Router, D-Link, Netgear, TP-Link, Tenda)
