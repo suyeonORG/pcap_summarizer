@@ -1,6 +1,6 @@
-# Network Packet Analysis Utility
+# PCAP Summarizer
 
-This utility is designed to analyze and summarize network packet captures from Wireshark exported in JSON format. It extracts and highlights key information such as identifying routers, clients, and servers on the network, and detecting potential network issues based on ARP, ICMP, and DHCP packet analysis.
+This utility is designed to analyze and summarize network packet captures from Wireshark `.pcap` **exported in JSON format**. It extracts and highlights key information such as identifying routers, clients, and servers on the network, and detecting potential network issues based on ARP, ICMP, and DHCP packet analysis.
 
 ## Features
 
